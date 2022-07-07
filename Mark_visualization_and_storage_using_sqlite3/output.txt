@@ -1,0 +1,272 @@
+
+----------------VISUALIZE AND COMPARE YOUR MARKS----------------
+
+
+----------------HOME----------------
+
+1.Login
+2.Sign up
+3.Exit
+
+2
+
+----------------SIGNUP PORTAL----------------
+
+Enter your name for userid: santhosh
+Enter password: 1234
+
+SIGN UP SUCCESSFULL !!!
+
+now login to visualize your marks
+
+
+----------------HOME----------------
+
+1.Login
+2.Sign up
+3.Exit
+
+1
+
+----------------LOGIN PORTAL----------------
+
+Enter userid: santhosh
+Enter password: 1234
+
+LOGIN SUCCESSFULL !!!
+
+----------------MAIN MENU----------------
+
+
+1.Enter marks
+2.Visualize marks
+3.Compare CAT vs SEMESTER
+0 to log out
+
+1
+
+----------------MARK ENTERING MENU----------------
+
+
+ENTER MARKS out of 100
+
+1.CAT1
+2.CAT2
+3.CAT3
+4.Semester
+5 for menu
+1
+Enter physics marks: 60
+Enter DS marks: 70
+Enter BEEE marks: 80
+Enter maths marks: 90
+Enter EG marks: 100
+
+MARKS ENTERED SUCCESSFULLY !!!
+
+----------------MAIN MENU----------------
+
+
+1.Enter marks
+2.Visualize marks
+3.Compare CAT vs SEMESTER
+0 to log out
+
+1
+
+----------------MARK ENTERING MENU----------------
+
+
+ENTER MARKS out of 100
+
+1.CAT1
+2.CAT2
+3.CAT3
+4.Semester
+5 for menu
+2
+Enter physics marks: 10
+Enter DS marks: 20
+Enter BEEE marks: 30
+Enter maths marks: 40
+Enter EG marks: 50
+
+MARKS ENTERED SUCCESSFULLY !!!
+
+----------------MAIN MENU----------------
+
+
+1.Enter marks
+2.Visualize marks
+3.Compare CAT vs SEMESTER
+0 to log out
+
+1
+
+----------------MARK ENTERING MENU----------------
+
+
+ENTER MARKS out of 100
+
+1.CAT1
+2.CAT2
+3.CAT3
+4.Semester
+5 for menu
+3
+Enter physics marks: 50
+Enter DS marks: 30
+Enter BEEE marks: 70
+Enter maths marks: 10
+Enter EG marks: 100
+
+MARKS ENTERED SUCCESSFULLY !!!
+
+----------------MAIN MENU----------------
+
+
+1.Enter marks
+2.Visualize marks
+3.Compare CAT vs SEMESTER
+0 to log out
+
+1
+
+----------------MARK ENTERING MENU----------------
+
+
+ENTER MARKS out of 100
+
+1.CAT1
+2.CAT2
+3.CAT3
+4.Semester
+5 for menu
+4
+Enter physics marks: 100
+Enter DS marks: 100
+Enter BEEE marks: 100
+Enter maths marks: 100 
+Enter EG marks: 100
+
+MARKS ENTERED SUCCESSFULLY !!!
+
+----------------MAIN MENU----------------
+
+
+1.Enter marks
+2.Visualize marks
+3.Compare CAT vs SEMESTER
+0 to log out
+
+2
+
+----------------VISUALIZE----------------
+
+
+Enter choice visualizing
+
+1.CAT1
+2.CAT2
+3.CAT3
+4.Semester
+5 for menu
+
+1
+ 
+
+----------------VISUALIZE----------------
+
+
+Enter choice visualizing
+
+1.CAT1
+2.CAT2
+3.CAT3
+4.Semester
+5 for menu
+
+2
+ 
+
+----------------VISUALIZE----------------
+
+
+Enter choice visualizing
+
+1.CAT1
+2.CAT2
+3.CAT3
+4.Semester
+5 for menu
+
+3
+ 
+
+----------------VISUALIZE----------------
+
+
+Enter choice visualizing
+
+1.CAT1
+2.CAT2
+3.CAT3
+4.Semester
+5 for menu
+
+4
+ 
+----------------VISUALIZE----------------
+
+
+Enter choice visualizing
+
+1.CAT1
+2.CAT2
+3.CAT3
+4.Semester
+5 for menu
+
+5
+
+----------------MAIN MENU----------------
+
+
+1.Enter marks
+2.Visualize marks
+3.Compare CAT vs SEMESTER
+0 to log out
+
+3
+ 
+
+----------------VISUALIZE----------------
+
+
+Enter choice visualizing
+
+1.CAT1
+2.CAT2
+3.CAT3
+4.Semester
+5 for menu
+
+5
+
+----------------MAIN MENU----------------
+
+
+1.Enter marks
+2.Visualize marks
+3.Compare CAT vs SEMESTER
+0 to log out
+
+0
+
+----------------HOME----------------
+
+1.Login
+2.Sign up
+3.Exit
+
+3
