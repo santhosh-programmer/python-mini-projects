@@ -1,7 +1,7 @@
 # Mark visualization and storage using sqlite3
 
 ## About
-
+<img src="https://i.gifer.com/T9r9.gif" align="right" width="50%" height="50%">
 <p>&emsp; This project aims to visualize,store and compare marks in a database. This project provides login/sign up facility,secured sign in using password, entering of marks for all exams, compare and visualize marks and store it in a database for furthur reference. Students can visit the program and register themselves with the required information that is expected by the system.<br><br>
 	&emsp; This project is very helpful for students to analyze their marks in all the subjects in all the exams and compare it. It makes the students to identify their weakness and strenghts so that they can focus on that subject.<br><br>
 	&emsp; Since this project uses the database concept, students can view and analyse their marks instantly without entering all the details again. This program is useful to store multiple student’s marks such that many of the students can make use of it.</p>
